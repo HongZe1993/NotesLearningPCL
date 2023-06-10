@@ -1,0 +1,4 @@
+﻿#ifndef IOVARIABLETABLE_H
+#define IOVARIABLETABLE_H
+
+#endif // IOVARIABLETABLE_H
